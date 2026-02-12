@@ -1,4 +1,4 @@
-# GCB DAO — Community Support Token (CST)
+# The Goldstonian Concordance Bible DAO — Community Support Token (CST)
 
 ## Core positioning (short)
 **Community Support Token:** a meme/fan token for cultural participation and transparent community coordination around the GCB ecosystem. **No ownership. No profit rights. No promised returns.**
