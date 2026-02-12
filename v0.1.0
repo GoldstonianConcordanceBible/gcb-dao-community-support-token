@@ -1,0 +1,19 @@
+## Summary
+Initial canonical release for $GCB documentation + Divine Intelligent Agent Swarms.
+
+## What’s included
+- Compliance-first token documentation (DISCLAIMERS, POLICIES, MARKETING RULES)
+- Agent Swarm Charter + Doctrine Framework (Mirror → Water → Fire)
+- Model card + on-chain metadata templates
+- SubDAO templates (Play Like a Pro CST)
+
+## Provenance
+Canonical repo: https://github.com/GoldstonianConcordanceBible/gcb-dao-community-support-token
+
+## Non-endorsement / Non-investment
+Not a security. Not an investment. No government endorsement.
+
+## Changes
+- Added: agents/ (swarm toolkit)
+- Added: CITATION.cff and NOTICE
+- Added: on-chain metadata template and model card template
