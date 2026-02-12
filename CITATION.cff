@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this repository (or a fork) in academic, engineering, or documentation work, please cite it."
+title: "GCB DAO — Community Support Token (CST) & Divine Intelligent Agent Swarms"
+type: software
+authors:
+  - family-names: Goldston
+    given-names: Justin
+    name-particle: ""
+    affiliation: "Goldstonian Concordance Bible (GCB) Ecosystem"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+repository-code: "https://github.com/GoldstonianConcordanceBible/gcb-dao-community-support-token"
+url: "https://github.com/GoldstonianConcordanceBible/gcb-dao-community-support-token"
+abstract: >
+  A compliance-first Community Support Token (meme/fan token) documentation set
+  plus forkable Divine Intelligent Agent Swarms for the Goldstonian Concordance Bible (GCB)
+  ecosystem. Includes provenance policies, non-endorsement and non-investment rules,
+  and retrieval-first (RAG) agent templates with scripture/doctrine packs designed
+  for auditable citations and community coordination.
+keywords:
+  - "Goldstonian Concordance Bible"
+  - "GCB"
+  - "community support token"
+  - "meme coin"
+  - "fan token"
+  - "DAO"
+  - "Web3 governance"
+  - "agent swarms"
+  - "RAG"
+  - "scripture retrieval"
+license: "CC-BY-4.0"
+preferred-citation:
+  type: software
+  title: "GCB DAO — Community Support Token (CST) & Divine Intelligent Agent Swarms"
+  authors:
+    - family-names: Goldston
+      given-names: Justin
+  year: 2026
+  repository-code: "https://github.com/GoldstonianConcordanceBible/gcb-dao-community-support-token"
+  url: "https://github.com/GoldstonianConcordanceBible/gcb-dao-community-support-token"
