@@ -1,4 +1,4 @@
-# Required Legal/Compliance Disclaimer (Strong)
+# Required Legal/Compliance Disclaimer
 
 **Not a security. Not an investment.** This token does not provide ownership, equity, profit share, revenue rights, dividends, or claims on any assets.
 
